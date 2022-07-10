@@ -11,4 +11,4 @@ Topics covered :-
 - Event handling.
 - useState() Hook.
 - Lists and methods.
-- Forms and react.
+- Forms.
